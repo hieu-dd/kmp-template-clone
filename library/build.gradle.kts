@@ -14,7 +14,7 @@ publishConfig {
     artifactId = "clone.template"
 }
 
-version = "0.0.2"
+version = "0.0.3"
 
 android {
     namespace = "kmp.template"
